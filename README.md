@@ -1,4 +1,5 @@
-![MySQL-AutoConnect (1)](https://user-images.githubusercontent.com/75335038/180614234-29d3e094-4e6c-45d0-b22a-d16bd0a03ed9.png)
+
+![MySQL-AutoConnect (2)](https://user-images.githubusercontent.com/75335038/180614315-1d3977e3-a671-43d9-b62a-919a5736dc66.png)
 
 
 # What is this?
