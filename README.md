@@ -8,3 +8,6 @@ Is a new personal project that everyone can use to get a MySQL Server connection
 # How can I use it?
 Is too easy as import like a .jar. 
 It works only if you have this libary and the connector.
+
+#Get Started
+First, we need to download the realise
