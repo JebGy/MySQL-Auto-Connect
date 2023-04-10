@@ -14,5 +14,6 @@ public interface Statements {
     boolean sendData();
     boolean deleteData();
     boolean updateData();
+    boolean getData();
     
 }
